@@ -1,0 +1,4 @@
+mkdir
+ls
+cp 
+vim
